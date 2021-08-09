@@ -18,12 +18,11 @@ A basic HTML site with js alert functions allowing the user to convert between m
 
 * Clone this repository to your desktop
 * Navigate to the top-level directory via your terminal
-* See line __ on js/script.js to change the operator 
-* Open https://github.com/paigetiedeman/calculator in your browser
+* Open https://github.com/paigetiedeman/baking-app in your browser
 
 ## Known Bugs
 
-* Must be cloned to change operator
+* Only one function working
 
 
 ## License
